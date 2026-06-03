@@ -1,1 +1,5 @@
 # agrinho-2026
+Este site foi desenvolvido para apresentar a importância da união entre o agronegócio e a sustentabilidade, tema central do Agrinho 2026. Por meio de informações simples e interativas, ele mostra como a tecnologia pode ajudar a aumentar a produção de alimentos sem causar danos ao meio ambiente. O site também conscientiza os visitantes sobre a preservação da água, do solo e da biodiversidade. Além disso, apresenta exemplos de inovações utilizadas no campo, como drones e sensores inteligentes. O quiz interativo torna o aprendizado mais dinâmico e envolvente para estudantes e visitantes. Dessa forma, a plataforma funciona como uma ferramenta educativa que aproxima as pessoas da realidade do campo. Seu principal objetivo é incentivar a construção de um futuro mais sustentável, equilibrando desenvolvimento econômico e responsabilidade ambiental.
+Esse site foi criado utilizando o chat gpt o seguinte pronpt:
+"Faça um site utilizando html,css e script.js para o agrinho 2026 com o tema agro forte,futuro sustentavel, equilibrio entre a 
+produção e o meio ambiente" " descreva para que serve este site, um  texto 
